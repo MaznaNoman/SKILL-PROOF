@@ -147,9 +147,3 @@ Opens at `http://localhost:8501`.
 - Verification is currently single-submission-based.
 - **Planned:** peer/community validation layer, dynamic live-challenge mode (instead of static submission), and long-term trust profiles built from patterns across multiple submissions rather than one-off scoring.
 
----
-
-## Team
-
-- [Member A] — Backend, AI Integration
-- [Member B] — Frontend, UI/UX, Documentation
