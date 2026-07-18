@@ -4,7 +4,7 @@
 
 SkillProof is an evidence-based skill verification platform. A user submits real work (code, writing, or design) along with their own short explanation of their approach. AI evaluates both — producing a **Proof Card**: a free, instant, credential-free way to demonstrate real ability, without needing a degree or paid certification.
 
-**LIVE DEMO: ** https://skill-proof-zkyb6g8xgdbwtjjmvbecdl.streamlit.app/
+LIVE DEMO: https://skill-proof-zkyb6g8xgdbwtjjmvbecdl.streamlit.app/
 
 ---
 
