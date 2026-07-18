@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+
+# Environments
+.env
+
+# Streamlit (keep config.toml for theme settings, but never commit secrets.toml)
+.streamlit/secrets.toml
+
+# Databases
+*.db
+skillproof.db
+
+# OS
+.DS_Store
+Thumbs.db
